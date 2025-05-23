@@ -153,7 +153,7 @@ const TenderEvaluator: React.FC<TenderEvaluatorProps> = ({ className = "" }) => 
 
           {/* Input Card - Left side of the page */}
           <div className="col-span-8 row-start-1">
-            <Card className="shadow-lg border border-indigo-100 mb-4">
+            <Card className="shadow-sm bg-white border border-indigo-100 mb-4">
               <CardHeader className="border-b border-indigo-100">
                 <CardTitle className="text-2xl text-center text-indigo-900">
                   Utvärderingsmodellen
