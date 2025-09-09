@@ -1,4 +1,4 @@
-# Analyze evaluation models with an multistep LLM-algorithm
+# Analyze evaluation models with a multistep LLM-algorithm
 
 This project allows you to analyze evaluation models and calculate different bid prices on them, using a multistep LLM-algorithm. It works for the majority of procurement documents in Sweden that include an evaluation model (in one file).
 
