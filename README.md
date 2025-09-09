@@ -1,6 +1,6 @@
-# Analyze evaluation models with an LLM algorithm
+# Analyze evaluation models with an multistep LLM-algorithm
 
-This project allows you to analyze evaluation models and calculate different bid prices on them, using a Large Language Model (LLM) algorithm. It consists of a Python FastAPI backend and a React/Typescript frontend. It works for the majority of procurement documents that include an evaluation model (in one file).
+This project allows you to analyze evaluation models and calculate different bid prices on them, using a multistep LLM-algorithm. It works for the majority of procurement documents in Sweden that include an evaluation model (in one file).
 
 ## Future Work
 
